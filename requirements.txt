@@ -1,0 +1,5 @@
+PyPDF2
+pandas
+numpy
+langchain-groq
+langgraph
