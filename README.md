@@ -11,3 +11,10 @@
 
 
 
+Planner Node: Determines the parsing strategy by analyzing input PDFs and corresponding CSV schemas.
+
+Code Generator Node: Leverages Gemini AI to automatically write Python parser scripts.
+
+Code Tester Node: Executes and verifies the parser against example data.
+
+Self-Correction Loop: Refines the code automatically, retrying up to three times on failure.
