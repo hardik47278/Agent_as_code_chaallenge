@@ -1,0 +1,28 @@
+PyPDF2
+pandas
+numpy
+langchain-groq
+langgraph
+PyPDF2
+groq
+typing_extensions
+python-dotenv
+IPython
+# Core dependencies
+google-generativeai>=0.7.1
+pandas>=2.0.0
+numpy>=1.20.0
+
+# PDF processing
+pypdf>=4.0.0
+pdfplumber>=0.10.0
+
+# Agent framework - using more recent, stable versions
+langgraph>=0.2.0
+langchain-core>=0.2.0
+
+# Testing
+pytest>=8.0.0
+
+# Optional: for better performance
+orjson>=3.9.0
